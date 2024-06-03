@@ -1,6 +1,5 @@
 #include <Kokkos_Core.hpp>
 #include <cstdio>
-#include <pybind11/pybind11.h>
 
 // Taken from
 // https://github.com/kokkos/kokkos-tutorials/blob/main/Exercises/04/Solution/exercise_4_solution.cpp
