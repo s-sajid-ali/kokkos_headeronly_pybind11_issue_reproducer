@@ -2,11 +2,6 @@
 #include <Kokkos_Core.hpp>
 #include <pybind11/pybind11.h>
 
-#if defined BUILD_FD_SPACE_CHARGE_SOLVER
-#include <petsc.h>
-#include <string>
-#endif
-
 namespace py = pybind11;
 using namespace py::literals;
 
