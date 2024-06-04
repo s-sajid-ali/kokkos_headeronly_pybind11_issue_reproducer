@@ -1,1 +1,6 @@
 build**/**
+
+# clangd LSP files
+.clangd
+compile_commands.json
+**.cache/clangd
